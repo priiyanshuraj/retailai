@@ -77,7 +77,6 @@ jupyter notebook AI_IN_RETAIL_GRP_PROJECT.ipynb
 
 ---
 
-**Author:** Priyanshu Raj
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Author:** Priyanshu Raj
